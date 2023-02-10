@@ -25,8 +25,8 @@ Somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que tie
 
 En esta oportunidad, vamos a presentar un proyecto innovador con la finalidad de reducir el impacto negativo en zonas agropecuarias que conlleva la creciente escasez de recursos hídricos como resultado del cambio climático.
 Integrantes:
-Gutierrez Quillatupa, Nicole Cecilia
-Achic Arredondo, Samantha Briseyda
-Escalante Rodriguez, Sophia
-Manyahuillca Borda, Zuly
-Sobrado Vergara, Neyeli Verenice
+- Gutierrez Quillatupa, Nicole Cecilia
+- Achic Arredondo, Samantha Briseyda
+- Escalante Rodriguez, Sophia
+- Manyahuillca Borda, Zuly
+- Sobrado Vergara, Neyeli Verenice
