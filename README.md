@@ -2,7 +2,7 @@
 ## nnsdjf
 ### jdvkjgve
 ------
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
+*Este proyecto tiene el objetivo de dar a conocer la **textura del suelo** del cultivo que pertenece al usuario. A continuación, se documentará de forma concisa el proceso y contenido del proyecto [code.iadb.org](https://code.iadb.org)*
 
 <h1 align="center">InfoTerra</h1>
 <p align="center"><img src="http://woodlandhighag.weebly.com/uploads/1/9/2/9/19299463/1_1_orig.jpg"/></p> 
