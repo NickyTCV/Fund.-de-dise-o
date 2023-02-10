@@ -7,13 +7,11 @@
 ## Tabla de contenidos:
 ---
 
-- [Badges o escudos](#badges-o-escudos)
-- [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
+- [Problemática](#problemática)
+- [Contexto](#contexto)
+- [Objetivos](#objetivos)
+- [Diseño](#diseño)
+- [Requerimientos del diseño](#requerimientos-del-diseño)
+- [Descripción del dispositivo](#descripción-del-dispositivo)
 - [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+
