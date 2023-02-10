@@ -10,8 +10,8 @@
 - [Problemática](#problemática)
 - [Contexto](#contexto)
 - [Objetivos](#objetivos)
+- [Descripción del dispositivo](#descripción-del-dispositivo)
 - [Diseño](#diseño)
 - [Requerimientos del diseño](#requerimientos-del-diseño)
-- [Descripción del dispositivo](#descripción-del-dispositivo)
-- [Autor/es](#autores)
+- [Autores](#autores)
 
