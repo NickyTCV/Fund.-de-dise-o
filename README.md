@@ -15,3 +15,18 @@
 - [Requerimientos del diseño](#requerimientos-del-diseño)
 - [Autores](#autores)
 
+## Problemática
+---
+Los pobladores de Ilave, distrito de Collao, en Puno, no cuentan con acceso a la información de sus terrenos de cultivos, lo que impide el desarrollo y cuidado de sus cultivos en épocas de sequía. 
+
+## Autores
+---
+Somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que tiene como objetivo aportar soluciones a problemas medioambientales. 
+
+En esta oportunidad, vamos a presentar un proyecto innovador con la finalidad de reducir el impacto negativo en zonas agropecuarias que conlleva la creciente escasez de recursos hídricos como resultado del cambio climático.
+Integrantes:
+Gutierrez Quillatupa, Nicole Cecilia
+Achic Arredondo, Samantha Briseyda
+Escalante Rodriguez, Sophia
+Manyahuillca Borda, Zuly
+Sobrado Vergara, Neyeli Verenice
