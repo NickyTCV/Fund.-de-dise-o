@@ -55,7 +55,7 @@ Los materiales que se utilizaron para su implementación se presentan a continua
 
 En esta sección se muestra el proceso de las conexiones electrónicas, con los materiales antes mostrados.
 
-![Proceso 1](https://us![Proceso 2](https://user-images.githubusercontent.com/117460418/218552431-73ac667d-cc2e-4b97-a2f7-cad567df343b.jpeg)
+![Proceso 1](https://user-images.githubusercontent.com/117460418/218552833-0ef7f5ee-5d1b-49d3-b504-727c7a32e770.jpeg)
 
 ![Proceso 2](https://user-images.githubusercontent.com/117460418/218552490-d4bb10e4-aac2-41e7-8547-ca7cf6c39c7a.jpeg)
 
