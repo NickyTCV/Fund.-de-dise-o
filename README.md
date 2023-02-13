@@ -13,11 +13,25 @@
 - [Descripción del dispositivo](#descripción-del-dispositivo)
 - [Diseño](#diseño)
 - [Requerimientos del diseño](#requerimientos-del-diseño)
+- [Procedimiento](#elaboración-del-prototipo)
 - [Autores](#autores)
 
 ## Problemática
 ---
 Los pobladores de Ilave, distrito de Collao, en Puno, no cuentan con acceso a la información de sus terrenos de cultivos, lo que impide el desarrollo y cuidado de sus cultivos en épocas de sequía. 
+
+## Contexto
+
+## Objetivos
+
+## Descripción del dispositivo
+
+## Diseño
+
+## Requerimientos del diseño
+
+## Procedimiento
+Fotos
 
 ## Autores
 ---
@@ -30,10 +44,3 @@ Integrantes:
 - Escalante Rodriguez, Sophia
 - Manyahuillca Borda, Zuly
 - Sobrado Vergara, Neyeli Verenice
-
-## Procedimiento de la instalación electrónica
----
-Los materiales que se utilizaron para su implementación se presentan a continuación.
-
-![GPS_Diseño](https://user-images.githubusercontent.com/117460418/218547457-ccc68184-f40b-4c2d-bde8-411da41aa48b.PNG)
-
