@@ -31,7 +31,7 @@ Integrantes:
 - Manyahuillca Borda, Zuly
 - Sobrado Vergara, Neyeli Verenice
 
-## Procedimiento de la instalación electrónica
+## Materiales 
 ---
 Los materiales que se utilizaron para su implementación se presentan a continuación.
 
@@ -53,8 +53,10 @@ Los materiales que se utilizaron para su implementación se presentan a continua
 **Motor DC**
 ![Motor DC](https://user-images.githubusercontent.com/117460418/218551867-563d1765-f318-4ee3-929a-9e539018f7a1.jpeg)
 
-En esta sección se muestra el proceso de las conexiones electrónicas, con los materiales antes mostrados.
+## Procedimiento de la instalación electrónica
+---
 
+En esta sección se muestra el proceso de las conexiones electrónicas, con los materiales antes mostrados.
 ![Proceso 1](https://user-images.githubusercontent.com/117460418/218552833-0ef7f5ee-5d1b-49d3-b504-727c7a32e770.jpeg)
 
 ![Proceso 2](https://user-images.githubusercontent.com/117460418/218552490-d4bb10e4-aac2-41e7-8547-ca7cf6c39c7a.jpeg)
