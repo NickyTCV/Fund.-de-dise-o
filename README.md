@@ -41,10 +41,21 @@ Los materiales que se utilizaron para su implementación se presentan a continua
 **Panel Solar**
 ![Panel Solar](https://user-images.githubusercontent.com/117460418/218548269-59fda394-f0f0-48ce-933e-7fdeb88e61af.jpeg)
 
-**Batería de 3.7V**                                                                                     **Driver de motor L298N**
-![Batería](https://user-images.githubusercontent.com/117460418/218548611-c443be33-78a8-4ba5-8970-ff40461e7b09.jpeg)![Driver de motor L298N](https://user-images.githubusercontent.com/117460418/218549845-f564db82-ae85-4db8-a4fe-e3189f2d6caa.jpeg)
+**Batería de 3.7V**                                                                                     
+![Batería](https://user-images.githubusercontent.com/117460418/218548611-c443be33-78a8-4ba5-8970-ff40461e7b09.jpeg)
+
+**Driver de motor L298N**
+![Driver de motor L298N](https://user-images.githubusercontent.com/117460418/218549845-f564db82-ae85-4db8-a4fe-e3189f2d6caa.jpeg)
 
 **Módulo GPS**
 ![Módulo GPS](https://user-images.githubusercontent.com/117460418/218549942-f3b59644-b360-4a95-b889-bd01b98cd5fe.jpeg)
 
+**Motor DC**
+![Motor DC](https://user-images.githubusercontent.com/117460418/218551867-563d1765-f318-4ee3-929a-9e539018f7a1.jpeg)
 
+En esta sección se muestra el proceso de las conexiones electrónicas, con los materiales antes mostrados.
+![Proceso 1](https://us![Proceso 2](https://user-images.githubusercontent.com/117460418/218552431-73ac667d-cc2e-4b97-a2f7-cad567df343b.jpeg)
+
+![Proceso 2](https://user-images.githubusercontent.com/117460418/218552490-d4bb10e4-aac2-41e7-8547-ca7cf6c39c7a.jpeg)
+
+![Proceso 3](https://user-images.githubusercontent.com/117460418/218552453-257fd6f7-b8bf-4602-b1b0-50c08206ef8a.jpeg)
