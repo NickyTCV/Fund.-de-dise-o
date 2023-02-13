@@ -30,3 +30,10 @@ Integrantes:
 - Escalante Rodriguez, Sophia
 - Manyahuillca Borda, Zuly
 - Sobrado Vergara, Neyeli Verenice
+
+## Procedimiento de la instalación electrónica
+---
+Los materiales que se utilizaron para su implementación se presentan a continuación.
+
+![GPS_Diseño](https://user-images.githubusercontent.com/117460418/218547457-ccc68184-f40b-4c2d-bde8-411da41aa48b.PNG)
+
