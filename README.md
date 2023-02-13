@@ -34,19 +34,19 @@ Integrantes:
 ## Procedimiento de la instalación electrónica
 ---
 Los materiales que se utilizaron para su implementación se presentan a continuación.
-*Arduino*
+**Arduino**
 ![Arduino](https://user-images.githubusercontent.com/117460418/218547988-b88ac4ea-50fa-48f2-ae97-2dd0264cec81.jpeg)
 
-*Panel Solar*
+**Panel Solar**
 ![Panel Solar](https://user-images.githubusercontent.com/117460418/218548269-59fda394-f0f0-48ce-933e-7fdeb88e61af.jpeg)
 
-*Batería de 3.7V*
+**Batería de 3.7V**
 ![Batería](https://user-images.githubusercontent.com/117460418/218548611-c443be33-78a8-4ba5-8970-ff40461e7b09.jpeg)
 
-*Driver de motor L298N*
+**Driver de motor L298N**
 ![Driver de motor L298N](https://user-images.githubusercontent.com/117460418/218549845-f564db82-ae85-4db8-a4fe-e3189f2d6caa.jpeg)
 
-*Módulo GPS*
+**Módulo GPS**
 ![Módulo GPS](https://user-images.githubusercontent.com/117460418/218549942-f3b59644-b360-4a95-b889-bd01b98cd5fe.jpeg)
 
 
