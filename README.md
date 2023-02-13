@@ -34,6 +34,7 @@ Integrantes:
 ## Procedimiento de la instalación electrónica
 ---
 Los materiales que se utilizaron para su implementación se presentan a continuación.
+
 **Arduino**
 ![Arduino](https://user-images.githubusercontent.com/117460418/218547988-b88ac4ea-50fa-48f2-ae97-2dd0264cec81.jpeg)
 
