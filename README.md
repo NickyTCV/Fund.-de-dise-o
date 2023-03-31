@@ -10,14 +10,14 @@
 - [Problemática](#problemática)
 - [Objetivos](#objetivos)
 - [Materiales](#materiales)
-- [Procedimiento de la instalación electrónica](Procedimiento-de-la-instalación-electrónica)
+- [Procedimiento de la instalación electrónica](#Procedimiento-de-la-instalación-electrónica)
 - [Autores](#autores)
 
 ## Problemática
 ---
 Los pobladores de Ilave, distrito de Collao, en Puno, no cuentan con acceso a la información de sus terrenos de cultivos, lo que impide el desarrollo y cuidado de sus cultivos en épocas de sequía. 
  
-##Objetivos
+## Objetivos
 ---
 En esta oportunidad, vamos a presentar un proyecto innovador con la finalidad de reducir el impacto negativo en zonas agropecuarias que conlleva la creciente escasez de recursos hídricos como resultado del cambio climático.
 
